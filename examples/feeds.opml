@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Calm Morning Feeds</title>
+  </head>
+  <body>
+    <outline text="AI">
+      <outline text="Hacker News" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="Simon Willison" type="rss" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
+    </outline>
+    <outline text="Local AI">
+      <outline text="Ollama Releases" type="rss" xmlUrl="https://github.com/ollama/ollama/releases.atom" htmlUrl="https://github.com/ollama/ollama/releases"/>
+    </outline>
+    <outline text="Productivity">
+      <outline text="ADHD Productivity Notes" type="rss" xmlUrl="https://example.org/adhd/feed" htmlUrl="https://example.org/adhd/"/>
+    </outline>
+  </body>
+</opml>

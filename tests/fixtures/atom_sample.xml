@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Harbor Notes Journal</title>
+  <link rel="alternate" type="text/html" href="https://harbor.example.com/"/>
+  <updated>2026-11-03T07:00:00Z</updated>
+  <id>urn:uuid:harbor-notes</id>
+  <entry>
+    <id>urn:uuid:harbor-0001</id>
+    <title type="html">A&amp;nbsp;Quiet Morning: Budgeting Without Apps and Spreadsheets</title>
+    <link rel="alternate" href="https://harbor.example.com/quiet-morning-budgeting/"/>
+    <content type="html">&lt;p&gt;Reading on &lt;em&gt;Amazon Publishing Insider&lt;/em&gt;: KDP authors are self-publishing more audiobooks this quarter, says our editorial desk.&lt;/p&gt;</content>
+    <published>2026-11-03T07:00:00Z</published>
+    <updated>2026-11-03T07:05:00Z</updated>
+  </entry>
+  <entry>
+    <id>urn:uuid:harbor-0002</id>
+    <title>AI Studio Ships Local LLM Runner for Home Servers.</title>
+    <link rel="alternate" href="https://harbor.example.com/llm-runner-repost/"/>
+    <summary>The same runner story again, syndicated from Arcadia.</summary>
+    <published>2026-11-03T06:30:00Z</published>
+  </entry>
+  <entry>
+    <id>urn:uuid:harbor-0003</id>
+    <title>Nurses Say a Calm Handoff Routine Cuts Evening Burnout</title>
+    <link rel="alternate" href="https://harbor.example.com/nurse-burnout/"/>
+    <summary>Hospital clinic staff describe a mindfulness and sleep routine that keeps patient care steady.</summary>
+    <published>2026-11-02T12:00:00Z</published>
+  </entry>
+  <entry>
+    <id>urn:uuid:harbor-0004</id>
+    <title>  </title>
+    <link rel="alternate" href="https://harbor.example.com/empty-title/"/>
+    <summary>Summary present, title blank on purpose (link should become the heading).</summary>
+    <published>2026-11-02T11:00:00Z</published>
+  </entry>
+</feed>

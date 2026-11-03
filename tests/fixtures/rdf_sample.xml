@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="urn:vorg">
+    <title>Vorg Science Desk</title>
+    <link>https://vorg.example.edu/</link>
+    <description>Telescope physics from the desk.</description>
+  </channel>
+  <item rdf:about="urn:vorg-1">
+    <title>Rocket Telescope Spots a Lunar Physics Oddity</title>
+    <link>https://vorg.example.edu/lunar-oddity</link>
+    <description>NASA study: telescope on the moon spies odd physics.</description>
+  </item>
+</rdf:RDF>

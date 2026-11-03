@@ -1,0 +1,6 @@
+# rss-digest example source list — one feed URL per line.
+#   * Lines starting with # are comments.
+#   * Optional friendly name after a pipe:  https://…| My News
+# Run it:  python -m digest --sources examples/sources.txt
+https://hnrss.org/frontpage
+https://www.marketing-ai-news.example/feed | AI Marketing Watch

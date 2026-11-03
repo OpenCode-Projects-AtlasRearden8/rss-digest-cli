@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Dylan's Calm Reading List</title>
+    <dateCreated>Tue, 03 Nov 2026 03:00:00 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Tech" >
+      <outline text="Arcadia Tech Stream" type="rss" xmlUrl="https://example.org/arcadia/feed" htmlUrl="https://example.org/arcadia"/>
+    </outline>
+    <outline text="Just For Fun">
+      <outline text="Harbor Notes Journal" type="rss" xmlUrl="https://harbor.example.com/feed" htmlUrl="https://harbor.example.com/"/>
+      <outline type="rss" xmlUrl="https://quotes.example.com/feed"/> <!-- outline without text -->
+    </outline>
+    <outline text="Blogs Archive (not a feed)">
+      <outline text="Old folder"/>
+    </outline>
+  </body>
+</opml>

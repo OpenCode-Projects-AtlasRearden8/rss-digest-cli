@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rss-digest-cli"
+version = "0.1.0"
+description = "Turn an OPML/URL list into a calm morning digest: fetch feeds, dedupe stories, group by topic; markdown or plain text output; optional one-paragraph AI summaries via any OpenAI-compatible endpoint (Ollama by default)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Asdale Dynamics, LLC" }]
+keywords = ["rss", "atom", "opml", "digest", "newsreader", "ollama", "morning"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Text Processing :: Markup",
+]
+
+[project.scripts]
+digest = "digest.cli:main"
+morning-digest = "digest.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/dylanasdale"
+
+[tool.setuptools]
+packages = ["digest"]
+
+[tool.setuptools.data-files]
+"share/rss-digest/examples" = ["examples/sources.txt", "examples/feeds.opml"]

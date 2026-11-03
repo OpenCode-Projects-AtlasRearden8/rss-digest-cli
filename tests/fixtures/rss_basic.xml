@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Arcadia Tech Stream</title>
+    <link>https://example.org/arcadia</link>
+    <description>Tech news from the fictional town of Arcadia.</description>
+    <item>
+      <title>AI Studio Ships Local LLM Runner for Home Servers</title>
+      <link>https://example.org/ai/local-llm-runner?utm_source=newsletter&amp;utm_medium=rss</link>
+      <description>The new runner lets you self-host a quantized GGUF model on a homelab with a Raspberry Pi or any modest GPU.</description>
+      <pubDate>Tue, 03 Nov 2026 08:15:00 +0000</pubDate>
+      <guid>https://example.org/ai/local-llm-runner</guid>
+    </item>
+    <item>
+      <title>AI Studio Ships Local LLM Runner for Home Servers!!</title>
+      <link>https://mirror.example.net/stories/arcadia-local-llm-runner?fbclid=xyz123</link>
+      <description>Syndicated copy.</description>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paperwork Organizer App Gets ADHD-Friendly Checklists</title>
+      <link>https://example.org/productivity/paperwork-organizer</link>
+      <description>A low-energy routine for organizing paperwork into a simple checklist. Note: contains the word &lt;b&gt;bold HTML&lt;/b&gt; and an image &lt;img src=&quot;x&quot;&gt;.</description>
+      <pubDate>Mon, 02 Nov 2026 21:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Final Fantasy XIV Patch 7.4 Adds a Cozy Fishing Duty</title>
+      <link>https://example.org/games/ffxiv-fishing-duty</link>
+      <description>Steam players can queue for the new dungeon raid duty in Final Fantasy XIV after today's patch.</description>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chess Tactics: The Vienna Gambit for Busy Mornings</title>
+      <link>https://example.org/chess/vienna-gambit</link>
+      <description>Five lichess drills covering the Vienna gambit opening and a clean checkmate endgame pattern.</description>
+      <pubDate>Sun, 01 Nov 2026 07:45:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
